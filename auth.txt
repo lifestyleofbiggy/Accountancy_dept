@@ -1,0 +1,5 @@
+const super_user = {
+    username: "admin",
+    email: "admin@gmail.com",
+    password: "mapoly16",
+}
